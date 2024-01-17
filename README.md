@@ -304,7 +304,6 @@ In order to see if the deployment works, copy the DNS name from the load balance
 - Delete the cloudformation stack in your AWS Console.
 - Delete the autocaling group created by AWS in EC2 service
 
-
 # Reference
 - https://aws.amazon.com/blogs/devops/integrating-with-github-actions-ci-cd-pipeline-to-deploy-a-web-app-to-amazon-ec2/
 - https://docs.aws.amazon.com/codedeploy/latest/userguide/integrations-partners-github.html#behaviors-authentication
